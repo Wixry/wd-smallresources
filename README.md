@@ -1,4 +1,11 @@
 # (THIS A WIP, WORKING ON MORE FUNCTIONS AND OPTIMIZATION)
+
+- [x] Engine broke
+- [x] NPC density
+- [x] Police Management
+- [x] Show id
+- [ ] optimization
+
 # ss-smallresources 
 - Multiple small resources in one resource mapped.
 
