@@ -1,4 +1,4 @@
-if Config.enginePlof == true then
+if Config.TireFlat == true then
     Citizen.CreateThread(function()
         while true do
             Citizen.Wait(0)
